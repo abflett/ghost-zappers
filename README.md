@@ -13,12 +13,18 @@
 
 ## Features
 
-Haunted house scene
+Haunted house scene @
+
 Scare meter (life bar)
+
 Animated interactive ghosts
+
 Fire weapon
+
 Score
+
 Starting message
+
 Ending message (restart option)
 
 @       Started feature
