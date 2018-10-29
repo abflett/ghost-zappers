@@ -5,7 +5,7 @@ class GhostZappers extends Component {
   render() {
     return (
       <div className="ghost-zappers">
-        Hello
+        <div className="view">SVG images</div>
       </div>
     );
   }
