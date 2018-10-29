@@ -2,8 +2,13 @@
 
 ## Table of Contents
 
-- [About](#updating-to-new-releases)
+- [About](#about)
+- [Instructions](#instructions)
+- [Supported Broswers](#supportedbroswers)
 
+## About
+
+## Instructions
 
 ## Supported Browsers
 
