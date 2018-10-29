@@ -22,7 +22,9 @@ Starting message
 Ending message (restart option)
 
 @       Started feature
+
 @@      Implemented feature
+
 @@@     Completed feature
 
 ## Supported Browsers
