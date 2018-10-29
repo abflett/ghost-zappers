@@ -4,11 +4,26 @@
 
 - [About](#about)
 - [Instructions](#instructions)
+- [Features](#features)
 - [Supported Broswers](#supportedbroswers)
 
 ## About
 
 ## Instructions
+
+## Features
+
+Haunted house scene
+Scare meter (life bar)
+Animated interactive ghosts
+Fire weapon
+Score
+Starting message
+Ending message (restart option)
+
+@       Started feature
+@@      Implemented feature
+@@@     Completed feature
 
 ## Supported Browsers
 
